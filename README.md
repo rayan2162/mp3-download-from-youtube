@@ -1,5 +1,7 @@
 # mp3 audio file download from youtube
 
+**_To avoid complexity use google colab for running the ipynb file_**
+
 A simple **Jupyter Notebook** to download audio from YouTube videos and convert it into high-quality **320kbps MP3** using `yt-dlp` and `FFmpeg`.
 
 ---
@@ -22,7 +24,7 @@ A simple **Jupyter Notebook** to download audio from YouTube videos and convert 
 
 2. **Open the Jupyter Notebook**:
 
-   Launch your notebook environment and open the file `yt_audio_downloader.ipynb`.
+   Launch your notebook environment (use google colab for avoiding complexity) and open the file `yt_audio_downloader.ipynb`.
 
 3. **Run the notebook cells**:
 
